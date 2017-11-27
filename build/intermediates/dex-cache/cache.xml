@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\Bmob_Sample_lost_foundtttttttt\app\libs\okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="E:\Android\Bmob_Sample_lost_foundtttttttt\app\build\intermediates\pre-dexed\debug\okhttp-3.9.0_f2d91d1cf432520e8f14efa106a558c0c0c20d75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Bmob_Sample_lost_foundtttttttt\app\libs\bmob_v3.1.1beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b70cca78172af77118481a3f097b542e55e55a6">
+        <dex dex="E:\Android\Bmob_Sample_lost_foundtttttttt\app\build\intermediates\pre-dexed\debug\bmob_v3.1.1beta_1de4bdc40cfc698f07c09371a14aa4c6c749dc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Bmob_Sample_lost_foundtttttttt\app\libs\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Android\Bmob_Sample_lost_foundtttttttt\app\build\intermediates\pre-dexed\debug\okio-1.9.0_82307b39ec7af0d3e3010232226c50469dbf2083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Bmob_Sample_lost_foundtttttttt\app\libs\org.json-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa0e3bef5e0c3660a3e69529a3d8b71b4ecd291a">
+        <dex dex="E:\Android\Bmob_Sample_lost_foundtttttttt\app\build\intermediates\pre-dexed\debug\org.json-2.0_f1ec76d8093d81ed9292a899813ed3d432a700e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Android\Bmob_Sample_lost_foundtttttttt\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Bmob_Sample_lost_foundtttttttt\app\libs\picasso-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="E:\Android\Bmob_Sample_lost_foundtttttttt\app\build\intermediates\pre-dexed\debug\picasso-2.2.0_23a192804f704574d4c1036d2d0db6a79cb74d19.jar" />
+    </item>
+
+</items>
